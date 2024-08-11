@@ -142,11 +142,7 @@
 </h3>
 
 <p align="left">
-  &nbsp;&nbsp;
-  <a href="https://portal.azure.com/" target="_blank" rel="noreferrer">
-      <img width="20" src="assets/azure.svg" alt="azure"/>
-  </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
   </a>
@@ -154,16 +150,20 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /> 
   </a>
+   &nbsp;
+  <a href="https://portal.azure.com/" target="_blank" rel="noreferrer">
+      <img src="assets/azure.svg" width="36" height="36" alt="azure"/>
+  </a>
 </p>
 
 
-### Support Me
+###
 
-<ul style="list-style-type: none; margin: 0;">
+<h3 align="left">🤝 Support Me</h3>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/den4uk"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
+<a href="https://www.buymeacoffee.com/den4uk">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
+</a>
 
 
 ###
@@ -172,9 +172,11 @@
   <a href="https://www.github.com/Code-by-Denis" target="_blank" rel="noreferrer"> 
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="32" height="32" alt="GitHub" /> 
   </a> 
+  &nbsp;&nbsp;
   <a href="http://www.instagram.com/denisshtefliuk" target="_blank" rel="noreferrer"> 
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="32" height="32" alt="Instagram" /> 
   </a> 
+  &nbsp;&nbsp;
   <a href="https://t.me/x_dionys_x" target="_blank" rel="noreferrer"> 
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" alt="Telegram" /> 
   </a>
