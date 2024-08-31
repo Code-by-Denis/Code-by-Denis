@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Code-by-Denis.Code-by-Denis"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SteflyukDenys.Code-by-Denis"  />
 </div>
 
 ###
@@ -169,7 +169,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.github.com/Code-by-Denis" target="_blank" rel="noreferrer"> 
+  <a href="https://www.github.com/SteflyukDenys" target="_blank" rel="noreferrer"> 
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="32" height="32" alt="GitHub" /> 
   </a> 
   &nbsp;&nbsp;
