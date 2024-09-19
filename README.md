@@ -125,12 +125,6 @@
 </p>
 
 ###
-<div>
-  <div align="left">
-    <a href="https://www.buymeacoffee.com/den4uk">
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
-    </a>
-  </div>
   <div align="center">
     <a href="https://www.github.com/SteflyukDenys" target="_blank" rel="noreferrer"> 
       <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="32" height="32" alt="GitHub" /> 
@@ -144,4 +138,3 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" alt="Telegram" /> 
     </a>
   </div>
-</div>
